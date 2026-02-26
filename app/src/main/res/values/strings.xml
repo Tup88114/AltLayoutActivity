@@ -1,4 +1,5 @@
 <resources>
+    //Phone
     <string name="app_name">FancyScreen</string>
     <string name="email">Email</string>
     <string name="extension">Extension</string>
@@ -10,4 +11,11 @@
     <string name="employee_extension">2253</string>
     <string name="employee_department">Design</string>
     <string name="employee_supervisor">Gail Davers</string>
+
+    //Tablet
+    <string name="extension_label">Extension</string>
+    <string name="department_label">Department</string>
+    <string name="supervisor_label">Supervisor</string>
+    <string name="direct_reports_label">Direct Reports</string>
+    <string name="email_label">Email</string>
 </resources>

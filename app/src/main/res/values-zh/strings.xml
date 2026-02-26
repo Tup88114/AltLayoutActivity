@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    //Phone
     <string name="app_name">FancyScreen</string>
     <string name="email">电子邮件</string>
-    <string name="extension">分机</string>
+    <string name="extension">分机分机</string>
     <string name="department">部门</string>
     <string name="supervisor">主管</string>
     <string name="direct_reports">直属下属</string>
@@ -11,4 +12,11 @@
     <string name="employee_extension">2253</string>
     <string name="employee_department">设计部</string>
     <string name="employee_supervisor">Gail Davers</string>
+
+    //Tablet
+    <string name="extension_label">分机</string>
+    <string name="department_label">部门</string>
+    <string name="supervisor_label">主管</string>
+    <string name="direct_reports_label">直属下属</string>
+    <string name="email_label">电子邮件</string>
 </resources>
