@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FancyScreen</string>
+    <string name="email">电子邮件</string>
+    <string name="extension">分机</string>
+    <string name="department">部门</string>
+    <string name="supervisor">主管</string>
+    <string name="direct_reports">直属下属</string>
+    <string name="employee_name">Michelle Townsend</string>
+    <string name="employee_email">mt@ourcompany.com</string>
+    <string name="employee_extension">2253</string>
+    <string name="employee_department">设计部</string>
+    <string name="employee_supervisor">Gail Davers</string>
+</resources>

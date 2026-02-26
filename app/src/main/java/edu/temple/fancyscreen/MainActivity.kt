@@ -18,18 +18,18 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<ImageView>(R.id.profile_photo).setImageResource(R.drawable.istockphoto)
 
-        findViewById<TextView>(R.id.name).setText("Michelle Townsend")
+        findViewById<TextView>(R.id.name).setText(R.string.employee_name)
 
         with(findViewById<TextView>(R.id.email)) {
-            text = "mt@ourcompany.com"
+            setText(R.string.employee_email)
             setTextColor(Color.BLUE)
         }
 
-        findViewById<TextView>(R.id.extension).text = "2253"
+        findViewById<TextView>(R.id.extension).setText(R.string.employee_extension)
 
-        findViewById<TextView>(R.id.department).text = "Design"
+        findViewById<TextView>(R.id.department).setText(R.string.employee_department)
 
-        findViewById<TextView>(R.id.supervisor).text = "Gail Davers"
+        findViewById<TextView>(R.id.supervisor).setText(R.string.employee_supervisor)
 
         with (findViewById<RecyclerView>(R.id.directReportsRecyclerView)) {
             adapter = RecyclerViewAdapter(

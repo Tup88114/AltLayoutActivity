@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name="email">Email</string>
+    <string name="extension">Extension</string>
+    <string name="department">Department</string>
+    <string name="supervisor">Supervisor</string>
+    <string name="direct_reports">Direct Reports</string>
+    <string name="employee_name">Michelle Townsend</string>
+    <string name="employee_email">mt@ourcompany.com</string>
+    <string name="employee_extension">2253</string>
+    <string name="employee_department">Design</string>
+    <string name="employee_supervisor">Gail Davers</string>
 </resources>
